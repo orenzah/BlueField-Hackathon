@@ -1,5 +1,6 @@
-# Welcome to my project at the Bluefield Hackathon of Mellanox Technologies
-Compression on-the-fly using LZ4 method
+# Compression on-the-fly using LZ4 method
+Welcome to my project at the Bluefield Hackathon of Mellanox Technologies
+
 
 ## Description
 We've implemented a concept of compression (encryption as well) independent of the host, when the host is sending packets over the transport layer (UDP).
